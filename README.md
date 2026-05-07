@@ -1,5 +1,10 @@
 # Development of New Approach Methodologies for Next-Generation Risk Assessment through Integrated QSAR-PBPK Modeling 
 
+## 📺 Project Presentation
+[![Watch the video](https://img.youtube.com/vi/bMzXdJp_bAs/maxresdefault.jpg)](https://youtu.be/bMzXdJp_bAs)
+
+*Click the image above to watch a deep-dive overview of the project (Audio generated via NotebookLM based on the PhD research plan).*
+
 ## Background
 
 Currently, it is estimated that over **100,000 industrial chemicals** are in commerce, with hundreds of new substances introduced annually. Traditional **'one-by-one' animal testing** is fundamentally incapable of keeping pace with this rate of production, leaving significant data gaps in human health protection. 
