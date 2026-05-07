@@ -29,9 +29,9 @@ The primary goal of this PhD thesis is to develop a **NAM-based** computational 
 
 1) Implementation of **QSAR** models to predict **ADME** (**Absorption, Distribution, Metabolism, and Excretion**) parameters directly from molecular descriptors. 
 These include critical chemical parameters such as:
- - the Apparent Permeability (P_{app}), 
- - the fraction unbound to plasma proteins (f_{up}), 
- - and intrinsic hepatic clearance (Cl_{int}).
+ - the Apparent Permeability ($P_{app}$), 
+ - the fraction unbound to plasma proteins ($f_{up}$), 
+ - and intrinsic hepatic clearance ($Cl_{int}$).
 
 2) Subsequently, with the gathered information, mechanistic **PBPK** models will be developed to simulate toxicokinetic of prioritized chemical classes (e.g., EDCs, PFAS, pesticides, or emerging contaminants). 
 These models will be refined to cover **different life stages** and **sex-specific** physiological variations, ensuring the protection of sensitive populations.
